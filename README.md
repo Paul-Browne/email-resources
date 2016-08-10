@@ -14,3 +14,15 @@ resources for generating emails
   </table>
 </center>
 ```
+
+#### White Space
+
+```html
+<table border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
+  <tbody>
+    <tr>
+      <td height="15" style="font-size: 15px; line-height: 15px;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+```
