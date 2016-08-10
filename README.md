@@ -3,6 +3,7 @@ resources for generating emails
 
 
 #### A Button
+`<center>` will center the button in the middle of the page
 ```html
 <center>
   <table border="0" cellpadding="0" cellspacing="0" style="background-color:blue; border:1px solid blue; border-radius:3px;">
