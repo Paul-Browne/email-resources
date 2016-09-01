@@ -25,3 +25,11 @@ resources for generating emails
     </tr>
 </table>
 ```
+
+#### remove gmail 'download image' prompt
+
+```html
+<a href='#' style="cursor:default">
+    <img style="cursor:default">
+</a>
+```
