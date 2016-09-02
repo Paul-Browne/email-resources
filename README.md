@@ -38,9 +38,9 @@ resources for generating emails
 
 ```html
 <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #ffffff;" bgcolor="#ffffff">
-<tbody>
-    <tr>
-        <td class="two-column" style="padding: 0px; text-align: center; font-size: 0px;">
+    <tbody>
+        <tr>
+            <td class="two-column" style="padding: 0px; text-align: center; font-size: 0px;">
                 <!--[if (gte mso 9)|(IE)]>
                 <table width="100%" style="border-spacing:0;font-family: Calibri, sans-serif;color:#333333;" >
                     <tr>
