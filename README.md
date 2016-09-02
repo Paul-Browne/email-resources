@@ -26,10 +26,10 @@ resources for generating emails
 </table>
 ```
 
-#### remove gmail 'download image' prompt
+#### padding 
 
-```html
-<a href='#' style="cursor:default">
-    <img style="cursor:default">
-</a>
-```
+`<div>` `<p>` `<a>` - not supported in Outlook
+
+#### width
+
+`<div>` `<p>`  - not supported in Outlook
