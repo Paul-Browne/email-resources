@@ -51,30 +51,7 @@ resources for generating emails
                                     <tbody>
                                         <tr>
                                             <td class="inner" style="padding:0px;">
-                                                <table align="center" class="contents" style="border-spacing: 0px; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 100%; font-size: 14px; text-align: center;">
-                                                    <tbody>
-                                                        <tr>
-                                                            <td style="padding: 0px;">
-                                                                <a href="%%=RedirectTo(Lookup(@ChangeDE, 'PARTNER3 G link', 'LanguageCode', @ChangeLC))=%%" target="_blank" style="text-decoration: none;">
-                                                                    <img src="%%=TreatAsContent(@PARTNER3)=%%"" width="150"  style="border-width: 0px; width: 150px; height: auto; Margin:0 auto;"  />
-                                                                </a>
-                                                                <table border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
-                                                                    <tr>
-                                                                        <td height="20" style="font-size: 20px; line-height: 20px;">&nbsp;</td>
-                                                                    </tr>
-                                                                </table>
-                                                                <a href="%%=RedirectTo(Lookup(@ChangeDE, 'PARTNER3 G link', 'LanguageCode', @ChangeLC))=%%" style="display:block; width:240px; height:63px; font-size: 14px; line-height: 21px; font-family: 'Helvetica', 'Arial', sans-serif; color:#0b2273; Margin: 0 auto;">
-                                                                    %%=TreatAsContent(Lookup(@ChangeDE, 'PARTNER3 G copy', 'LanguageCode', @ChangeLC))=%% 
-                                                                </a>                                                                            
-                                                                <table border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
-                                                                    <tr>
-                                                                        <td height="40" style="font-size: 40px; line-height: 40px;">&nbsp;</td>
-                                                                    </tr>
-                                                                </table>
-                                                            </td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
+                                              
                                             </td>
                                         </tr>
                                     </tbody>
@@ -89,30 +66,7 @@ resources for generating emails
                                     <tbody>
                                         <tr>
                                             <td class="inner" style="padding:0px;">
-                                                <table align="center" class="contents" style="border-spacing: 0px; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 100%; font-size: 14px; text-align: center;">
-                                                    <tbody>
-                                                        <tr>
-                                                            <td style="padding: 0px;">
-                                                                <a href="%%=RedirectTo(Lookup(@ChangeDE, 'PARTNER4 G link', 'LanguageCode', @ChangeLC))=%%" target="_blank" style="text-decoration: none;">
-                                                                    <img src="%%=TreatAsContent(@PARTNER4)=%%"" width="150"  style="border-width: 0px; width: 150px; height: auto; Margin:0 auto;"  />
-                                                                </a>
-                                                                <table border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
-                                                                    <tr>
-                                                                        <td height="20" style="font-size: 20px; line-height: 20px;">&nbsp;</td>
-                                                                    </tr>
-                                                                </table>
-                                                                <a href="%%=RedirectTo(Lookup(@ChangeDE, 'PARTNER4 G link', 'LanguageCode', @ChangeLC))=%%" style="display:block; width:240px; height:63px; font-size: 14px; line-height: 21px; font-family: 'Helvetica', 'Arial', sans-serif; color:#0b2273; Margin: 0 auto;">
-                                                                    %%=TreatAsContent(Lookup(@ChangeDE, 'PARTNER4 G copy', 'LanguageCode', @ChangeLC))=%% 
-                                                                </a>                                                                            
-                                                                <table border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
-                                                                    <tr>
-                                                                        <td height="40" style="font-size: 40px; line-height: 40px;">&nbsp;</td>
-                                                                    </tr>
-                                                                </table>
-                                                            </td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
+                                                
                                             </td>
                                         </tr>
                                     </tbody>
