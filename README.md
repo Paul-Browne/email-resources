@@ -82,3 +82,51 @@ resources for generating emails
     </tbody>
 </table>
 ```
+
+
+#### bordered text
+
+```html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+  <body>
+
+			<table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse;">
+              <tr>
+                  <td width="25" height="127" valign="top" style="font-size:0;">
+                      <img style="vertical-align:middle;display:block" width="25" height="127" src="http://image.email.finnair.com/lib/fe92127276640d7c7d/m/2/box-left.png" />
+                    </td>
+                <td>
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse;">
+                    <tr>
+                        <td width='300' height="2" valign="top" style="font-size:0;">
+                            <img style="vertical-align:middle;display:block" width="300" height="2" src="http://image.email.finnair.com/lib/fe92127276640d7c7d/m/2/box-top-600.png" />
+                          </td>
+                    </tr>
+                    <tr>
+                      <td width='300' height='120' style="background:white">ggg sdf sdf sdf sd fsd f<br> asd asd as das d asd as </td>
+                    </tr>
+                    <tr>
+                        <td width='300' height="5" valign="top" style="font-size:0;">
+                            <img style="vertical-align:middle;display:block" width="300" height="5" src="http://image.email.finnair.com/lib/fe92127276640d7c7d/m/2/box-bottom-600.png" />
+                        </td>
+                    </tr>
+                  </table>
+                </td>
+                <td width="46" height="127" valign="top" style="font-size:0;">
+                    <img style="vertical-align:middle;display:block" width="46" height="127" src="http://image.email.finnair.com/lib/fe92127276640d7c7d/m/2/box-right.png" />
+                  </td>
+              </tr>
+            </table>
+  </body>
+</html>
+```
+
+
+
+
